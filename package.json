@@ -12,6 +12,10 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Don Nguyen",
-	"keywords": [ "descriptive", "related", "words" ],
+	"keywords": 
+	 	["descriptive",
+	 	"related",
+	  	"freecodecamp"],
+
 	"description": "A project that does something awesome"
 }
