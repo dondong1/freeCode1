@@ -17,5 +17,6 @@
 	 	"related",
 	  	"freecodecamp"],
 
-	"description": "A project that does something awesome"
+	"description": "A project that does something awesome",
+	"license": "MIT"
 }
